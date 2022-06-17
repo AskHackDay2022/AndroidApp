@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="invalid_username">Не подходящее имя</string>
+    <string name="invalid_password">Пароль должен содержать больше 5 символов</string>
+    <string name="login_failed">Войти не удалось</string>
+    <string name="Services">Сервисы</string>
+    <string name="Univer">Найти университет</string>
+    <string name="Donate">Пожертвования</string>
+    <string name="Work">Работа</string>
+    <string name="Popular">Популярное</string>
+    <string name="Questions">Вопросы и ответы</string>
+</resources>
